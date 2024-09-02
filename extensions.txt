@@ -1,0 +1,17 @@
+aaron-bond.better-comments
+bmewburn.vscode-intelephense-client
+bracketpaircolordlw.bracket-pair-color-dlw
+codeium.codeium
+kamikillerto.vscode-colorize
+mehedidracula.php-namespace-resolver
+oderwat.indent-rainbow
+onecentlin.laravel-blade
+pkief.material-icon-theme
+ritwickdey.liveserver
+ryannaddy.laravel-artisan
+shufo.vscode-blade-formatter
+sleistner.vscode-fileutils
+stuart.unique-window-colors
+vincaslt.highlight-matching-tag
+yzane.markdown-pdf
+zhuangtongfa.material-theme
